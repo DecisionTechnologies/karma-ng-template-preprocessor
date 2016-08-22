@@ -42,3 +42,8 @@ module.exports = function(config) {
     beforeEach(module('templates'));    
   });
 ```
+
+Used on the sites
+[Broadbandchoices](https://www.broadbandchoices.co.uk) [Schlaubi] (https://www.schlaubi.de)
+
+Interested in working at [Decision.tech](decision.tech/vacancies/) please visit our site for the latest vacancies.
