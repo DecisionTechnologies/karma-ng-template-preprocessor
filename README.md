@@ -46,4 +46,4 @@ module.exports = function(config) {
 Used on the sites
 [Broadbandchoices](https://www.broadbandchoices.co.uk) [Schlaubi] (https://www.schlaubi.de)
 
-Interested in working at [Decision.tech](decision.tech/vacancies/) please visit our site for the latest vacancies.
+Interested in working at [Decision.tech](http://decision.tech/vacancies/) please visit our site for the latest vacancies.
